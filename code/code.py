@@ -1,5 +1,5 @@
 # app.py
-# this is test commit for start workflows
+# this is test commit for action
 def add(a, b):
     return a + b
 
